@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests\unit\validateur;
+namespace tests\unit\validateur;
 
 use App\Exceptions\MotDePasseException;
 use App\Exceptions\NombreException;
